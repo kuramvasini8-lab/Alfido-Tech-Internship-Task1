@@ -49,30 +49,30 @@ portfolio-website/
 │── resume.pdf
 │── README.md
 
-**Project Sections**
-# Home Section
+# Project Sections
+**Home Section**
 
 Introduces the portfolio owner with name, role, and short description.
 
-# Skills Section
+**Skills Section**
 
 Displays technical skills using responsive cards.
 
-# Projects Section
+**Projects Section**
 
 Showcases academic and personal projects.
 
-# Contact Section
+**Contact Section**
 
 Contains social media links and contact details.
 
-**How to Run the Project**
+# How to Run the Project
 - Download or clone the repository
 - Open the project folder in VS Code
 - Open index.html
 - Run using Live Server
 
-**Deployment**
+# Deployment
 
 The website is hosted using GitHub Pages.
 
@@ -84,14 +84,14 @@ https://github.com/kuramvasini8-lab/Alfido-Tech-Internship-Task1
 
 https://kuramvasini8-lab.github.io/Alfido-Tech-Internship-Task1/
 
-**Learning Outcomes**
+# Learning Outcomes
 Learned responsive web design
 Improved frontend development skills
 Implemented animations and hover effects
 Learned Git and GitHub workflow
 Deployed website using GitHub Pages
 
-**Author**
+# Author
 
 Kuram Vasini
 
