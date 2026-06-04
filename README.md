@@ -8,7 +8,7 @@
 
 🌐 **Live Demo:** https://kuramvasini8-lab.github.io/Portfolio-Website/
 
-💻 **GitHub Repository:** https://github.com/kuramvasini8-lab/Portfolio-Website
+💻 **GitHub Repository:** https://github.com/kuramvasini8-lab/Alfido-Tech-Internship-Task1
 
 ---
 
