@@ -6,7 +6,7 @@
 
 ## 🔗 Project Links
 
-🌐 **Live Demo:** https://kuramvasini8-lab.github.io/Portfolio-Website/
+🌐 **Live Demo:** https://kuramvasini8-lab.github.io/Alfido-Tech-Internship-Task1/
 
 💻 **GitHub Repository:** https://github.com/kuramvasini8-lab/Alfido-Tech-Internship-Task1
 
