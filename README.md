@@ -104,4 +104,4 @@ This project was developed by Kuram Vasini as part of the Frontend Developer Int
 
 ## License
 
-This project is provided for educational, learning, and internship purposes. Users may modify and customize the content according to their requirements.
+This project is provided for educational, learning, and internship purposes.
